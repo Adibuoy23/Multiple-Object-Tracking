@@ -1,5 +1,10 @@
 # Eye movements explain individual differences in Multiple Object Tracking
- Python implementation of [Upadhyayula & Flombaum 2020 Cognition paper]
+
+***
+
+ Python implementation of *[Upadhyayula & Flombaum 2020 Cognition paper](https://www.sciencedirect.com/science/article/pii/S0010027720302377?casa_token=59UsBP6wuT0AAAAA:imYhSzvZYPiGnyvbecfpPzZLiUZfRZbdl1TKR9AMySd1K1LZW6C52KdRul8lwwA-dchWcZWB)*
+ 
+ ***
  
  Required dependencies:
  * Python version 3.6
