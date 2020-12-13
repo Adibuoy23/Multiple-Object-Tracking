@@ -1,4 +1,4 @@
-# MOT_individual_differences
+# Eye movements explain individual differences in Multiple Object Tracking
  Python implementation of [Upadhyayula & Flombaum 2020 Cognition paper]
  
  Please use the following citation to cite this work
